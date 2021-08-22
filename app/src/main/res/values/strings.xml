@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OMDB</string>
+    <string name="fragment_list">Open Movie Database</string>
+    <string name="fragment_info">Movie info</string>
+    <string name="image_description">Movie poster</string>
+    <string name="text_retry">Retry</string>
+    <string name="search_hint">Movie title…</string>
+    <string name="movie_year">Year</string>
+    <string name="movie_genre">Genre</string>
+    <string name="movie_director">Director</string>
+    <string name="movie_actors">Actors</string>
+    <string name="movie_meta_score">Meta Score</string>
+    <string name="movie_imdb_rating">Imdb Rating</string>
+</resources>
